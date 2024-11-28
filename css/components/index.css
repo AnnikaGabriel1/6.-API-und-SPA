@@ -2,7 +2,7 @@
 @import 'movie.css';
 @import 'movies.css';
 @import 'location-finder.css';
-
+@import 'contact-form.css';
 .error {
 	color: var(--red-7);
 	font-size: 2rem;

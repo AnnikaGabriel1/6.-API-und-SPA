@@ -19,7 +19,7 @@ export default function ContactPage() {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		// login de Formular
+		// logik de Formular
 	};
 
 	return (
