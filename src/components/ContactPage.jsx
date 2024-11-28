@@ -19,8 +19,7 @@ export default function ContactPage() {
 
 	const handleSubmit = (e) => {
 		e.preventDefault();
-		// Aquí podrías añadir la lógica para enviar el formulario, como una petición HTTP
-		console.log('Formulario enviado:', formData);
+		// login de Formular
 	};
 
 	return (
